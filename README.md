@@ -1,4 +1,7 @@
-💫 About Me:
+# CodexNEMORIS
+
+
+## About Me
 👨‍💻 Software Engineer | 💡 Creative | 🌐 Computer Infrastructure | 🔒 Cybersecurity
 Hello! I'm a software engineer passionate about creating innovative solutions and solving complex challenges. With expertise in programming languages and computer infrastructure, I build efficient and scalable systems.
 🚀 Versatile Engineering  
@@ -13,12 +16,15 @@ Implement cybersecurity best practices throughout the development lifecycle.
 Stay updated with latest trends in software engineering and security.
 🌍 Open Source Advocate  
 Regular contributor to open-source projects.
-🌐 Socials:
+
+## Socials
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 ![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)
-💻 Tech Stack:
-🗣️ Languages
+
+## Tech Stack
+
+### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -59,7 +65,8 @@ Regular contributor to open-source projects.
 ![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=flat&logo=mathworks&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=flat&logo=apple&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-%23000000.svg?style=flat&logo=cobol&logoColor=white)
-🧩 Frameworks & Libraries
+
+### Frameworks & Libraries
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=flat&logo=adonisjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
@@ -145,7 +152,8 @@ Regular contributor to open-source projects.
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai-A30701?style=flat&logo=chai&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
-☁️ Cloud & Hosting
+
+### Cloud & Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
@@ -165,7 +173,8 @@ Regular contributor to open-source projects.
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
 ![Jamstack](https://img.shields.io/badge/Jamstack-F0047F?style=flat&logo=jamstack&logoColor=white)
-🗄️ Databases
+
+### Databases
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white)
 ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=flat&logo=Cockroach%20Labs&logoColor=white)
@@ -183,7 +192,8 @@ Regular contributor to open-source projects.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-🎨 Design Tools
+
+### Design Tools
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white)
@@ -207,7 +217,8 @@ Regular contributor to open-source projects.
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-000000?style=flat&logo=balsamiq&logoColor=white)
 ![InVision](https://img.shields.io/badge/InVision-FF3366?style=flat&logo=invision&logoColor=white)
-🔧 DevOps & Tools
+
+### DevOps & Tools
 ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=flat&logo=alfred)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
@@ -258,7 +269,8 @@ Regular contributor to open-source projects.
 ![Qualys](https://img.shields.io/badge/Qualys-000000?style=flat&logo=qualys&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
-📊 ML & Data Science
+
+### ML & Data Science
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
@@ -277,20 +289,23 @@ Regular contributor to open-source projects.
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-💾 Operating Systems
+
+### Operating Systems
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=F0F0F0)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-🎮 Game Engines
+
+### Game Engines
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat&logo=godotengine&logoColor=white)
 ![GameMaker Studio](https://img.shields.io/badge/GameMaker%20Studio-7360F2?style=flat&logo=gamemaker&logoColor=white)
 ![CryEngine](https://img.shields.io/badge/CryEngine-27A7F9?style=flat&logo=cryengine&logoColor=white)
-🔌 SaaS & APIs
+
+### SaaS & APIs
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 ![SendGrid](https://img.shields.io/badge/SendGrid-2499ED?style=flat&logo=sendgrid&logoColor=white)
@@ -301,9 +316,11 @@ Regular contributor to open-source projects.
 ![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?style=flat&logo=dropbox&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white)
-📊 GitHub Stats:
+
+## GitHub Stats
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=codexnemoris&theme=dark)
-🌐 Social Platforms:
+
+## Social Platforms
 <p align="left">
 <a href="https://codepen.io/codexnemoris" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/codexnemoris" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://dev.to/codexnemoris" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/codexnemoris" height="30" width="40" style="max-width: 100%;"></a>
@@ -324,9 +341,13 @@ Regular contributor to open-source projects.
 <a href="https://www.geeksforgeeks.org/user/codexnemoris/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/codexnemoris/" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.topcoder.com/members/codexnemoris" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://www.topcoder.com/members/codexnemoris" height="30" width="40" style="max-width: 100%;"></a>
 </p>
-🏆 GitHub Trophies
+
+## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=codexnemoris)
 ---
 ![](https://komarev.com/ghpvc/?username=codexnemoris)
-💰 Support
+
+## Support
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+
+
